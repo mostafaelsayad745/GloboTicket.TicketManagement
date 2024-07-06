@@ -1,0 +1,16 @@
+D:\Asp.net core\GitHub\GloboTicket.TicketManagement\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Application\bin\Debug\net8.0\GloboTicket.TicketManagement.Application.deps.json
+D:\Asp.net core\GitHub\GloboTicket.TicketManagement\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Application\bin\Debug\net8.0\GloboTicket.TicketManagement.Application.dll
+D:\Asp.net core\GitHub\GloboTicket.TicketManagement\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Application\bin\Debug\net8.0\GloboTicket.TicketManagement.Application.pdb
+D:\Asp.net core\GitHub\GloboTicket.TicketManagement\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Application\bin\Debug\net8.0\GloboTicket.TicketManagement.Domain.dll
+D:\Asp.net core\GitHub\GloboTicket.TicketManagement\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Application\bin\Debug\net8.0\GloboTicket.TicketManagement.Domain.pdb
+D:\Asp.net core\GitHub\GloboTicket.TicketManagement\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Application\obj\Debug\net8.0\GloboTicket.TicketManagement.Application.csproj.AssemblyReference.cache
+D:\Asp.net core\GitHub\GloboTicket.TicketManagement\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Application\obj\Debug\net8.0\GloboTicket.TicketManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Asp.net core\GitHub\GloboTicket.TicketManagement\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Application\obj\Debug\net8.0\GloboTicket.TicketManagement.Application.AssemblyInfoInputs.cache
+D:\Asp.net core\GitHub\GloboTicket.TicketManagement\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Application\obj\Debug\net8.0\GloboTicket.TicketManagement.Application.AssemblyInfo.cs
+D:\Asp.net core\GitHub\GloboTicket.TicketManagement\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Application\obj\Debug\net8.0\GloboTicket.TicketManagement.Application.csproj.CoreCompileInputs.cache
+D:\Asp.net core\GitHub\GloboTicket.TicketManagement\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Application\obj\Debug\net8.0\GloboTicket.TicketManagement.Application.sourcelink.json
+D:\Asp.net core\GitHub\GloboTicket.TicketManagement\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Application\obj\Debug\net8.0\GloboTic.C7484A60.Up2Date
+D:\Asp.net core\GitHub\GloboTicket.TicketManagement\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Application\obj\Debug\net8.0\GloboTicket.TicketManagement.Application.dll
+D:\Asp.net core\GitHub\GloboTicket.TicketManagement\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Application\obj\Debug\net8.0\refint\GloboTicket.TicketManagement.Application.dll
+D:\Asp.net core\GitHub\GloboTicket.TicketManagement\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Application\obj\Debug\net8.0\GloboTicket.TicketManagement.Application.pdb
+D:\Asp.net core\GitHub\GloboTicket.TicketManagement\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Application\obj\Debug\net8.0\ref\GloboTicket.TicketManagement.Application.dll

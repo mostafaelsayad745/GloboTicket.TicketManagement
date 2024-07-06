@@ -1,0 +1,33 @@
+2024-07-06 12:19:23.236 +03:00 [INF] Now listening on: https://localhost:7025
+2024-07-06 12:19:23.259 +03:00 [INF] Now listening on: http://localhost:5285
+2024-07-06 12:19:23.263 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-06 12:19:23.264 +03:00 [INF] Hosting environment: Development
+2024-07-06 12:19:23.265 +03:00 [INF] Content root path: D:\Asp.net core\GitHub\GloboTicket.TicketManagement\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Api
+2024-07-06 12:19:42.855 +03:00 [INF] HTTP GET /api/Category/all responded 200 in 2425.8966 ms
+2024-07-06 13:33:10.045 +03:00 [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2024-07-06 13:33:45.993 +03:00 [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2024-07-06 13:34:32.899 +03:00 [INF] Now listening on: https://localhost:7025
+2024-07-06 13:34:32.918 +03:00 [INF] Now listening on: http://localhost:5285
+2024-07-06 13:34:32.921 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-06 13:34:32.923 +03:00 [INF] Hosting environment: Development
+2024-07-06 13:34:32.924 +03:00 [INF] Content root path: D:\Asp.net core\GitHub\GloboTicket.TicketManagement\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Api
+2024-07-06 13:42:26.996 +03:00 [INF] Now listening on: https://localhost:7025
+2024-07-06 13:42:27.019 +03:00 [INF] Now listening on: http://localhost:5285
+2024-07-06 13:42:27.021 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-06 13:42:27.023 +03:00 [INF] Hosting environment: Development
+2024-07-06 13:42:27.023 +03:00 [INF] Content root path: D:\Asp.net core\GitHub\GloboTicket.TicketManagement\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Api
+2024-07-06 14:27:47.611 +03:00 [INF] Now listening on: https://localhost:7025
+2024-07-06 14:27:47.631 +03:00 [INF] Now listening on: http://localhost:5285
+2024-07-06 14:27:47.634 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-06 14:27:47.636 +03:00 [INF] Hosting environment: Development
+2024-07-06 14:27:47.637 +03:00 [INF] Content root path: D:\Asp.net core\GitHub\GloboTicket.TicketManagement\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Api
+2024-07-06 15:53:47.291 +03:00 [INF] Now listening on: https://localhost:7025
+2024-07-06 15:53:47.312 +03:00 [INF] Now listening on: http://localhost:5285
+2024-07-06 15:53:47.315 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-06 15:53:47.316 +03:00 [INF] Hosting environment: Development
+2024-07-06 15:53:47.317 +03:00 [INF] Content root path: D:\Asp.net core\GitHub\GloboTicket.TicketManagement\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Api
+2024-07-06 19:57:57.594 +03:00 [INF] Now listening on: https://localhost:7025
+2024-07-06 19:57:57.621 +03:00 [INF] Now listening on: http://localhost:5285
+2024-07-06 19:57:57.626 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-06 19:57:57.634 +03:00 [INF] Hosting environment: Development
+2024-07-06 19:57:57.638 +03:00 [INF] Content root path: D:\Asp.net core\GitHub\GloboTicket.TicketManagement\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Api
